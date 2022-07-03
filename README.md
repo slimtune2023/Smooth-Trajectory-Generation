@@ -1,2 +1,2 @@
-# Bezier-Curve-Generation
-Python code to generate Bezier curves
+# Smooth-Trajectory-Generation
+Python code to generate Bezier curves and resulting trajectories
